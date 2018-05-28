@@ -1,0 +1,10 @@
+D:\Other\Terragard\Terragard\Terragard\bin\Debug\Terragard.exe.config
+D:\Other\Terragard\Terragard\Terragard\bin\Debug\Terragard.exe
+D:\Other\Terragard\Terragard\Terragard\bin\Debug\Terragard.pdb
+D:\Other\Terragard\Terragard\Terragard\obj\Debug\Terragard.csprojResolveAssemblyReference.cache
+D:\Other\Terragard\Terragard\Terragard\obj\Debug\Terragard.Properties.Resources.resources
+D:\Other\Terragard\Terragard\Terragard\obj\Debug\Terragard.csproj.GenerateResource.cache
+D:\Other\Terragard\Terragard\Terragard\obj\Debug\Terragard.csproj.CoreCompileInputs.cache
+D:\Other\Terragard\Terragard\Terragard\obj\Debug\Terragard.exe
+D:\Other\Terragard\Terragard\Terragard\obj\Debug\Terragard.pdb
+D:\Other\Terragard\Terragard\Terragard\obj\Debug\Terragard.TerragardWindow.resources
